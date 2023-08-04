@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firas is the best man 
+=======
+files
+>>>>>>> new-feature
