@@ -1,0 +1,7 @@
+#!/bin/bash
+set -e 
+for (( counter =10 ; counter>0; counter-- ))
+do
+echo  "$counter"
+done
+printf "\n"

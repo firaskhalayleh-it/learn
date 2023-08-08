@@ -1,0 +1,9 @@
+#!/bin/bash
+ 
+echo -n  "enter the year of birth "
+read age
+
+currage=$(date +%Y)
+
+((sum=currage-age))
+echo "your age is $sum"

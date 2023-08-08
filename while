@@ -1,0 +1,13 @@
+#!/bin/bash
+
+valid=true
+count=1
+while [ 0 ]
+do 
+echo $count
+if [ $count -eq 5 ]
+then 
+break
+fi
+((count++))
+done

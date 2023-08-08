@@ -1,0 +1,11 @@
+#!/bin/bash
+set -e
+
+n=10 
+
+ if [ $n -gt  10 ];
+ then
+	 echo "one digit"
+ else 
+	 echo "two or more digit"
+ fi
